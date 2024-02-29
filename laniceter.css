@@ -1,0 +1,27 @@
+.hea{
+color: rgb(182, 255, 251);
+background-color: rgb(64, 111, 112);
+}
+.starting{
+    font-family:"press start 2P",system-ui;
+    color:rgb(255, 90, 90);
+background-color: black;
+
+}
+.navigation{
+    color: rgb(212, 0, 0);
+background-color: rgb(0, 0, 0);
+font-family:"press start 2P",system-ui;
+font-weight: 400;
+font-style:normal ;
+border-radius: 12px;
+}
+.copyrights{
+font-family: cursive;
+font-style: italic;
+font-weight: 200;
+
+color: rgb(223, 162, 162);
+background-color: black;
+
+}
